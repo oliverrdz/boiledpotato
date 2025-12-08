@@ -1,0 +1,7 @@
+<div class="card p-3 mb-3">
+    <h2>{{ .Title }}</h2>
+    <p class="text-secondary">{{ .Date.Format "January 2, 2006" }}</p>
+    <p class="text-secondar">Tags: {{ partial "tags.html" . -}}</p>
+    <p>{{ .Summary }}</p>
+    <p><a href="{{ .RelPermalink }}">See more...</a></p>
+</div>

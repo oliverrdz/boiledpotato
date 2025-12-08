@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <div class="card p-3 mb-3">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ if .Params.Date }}
+            <p class="text-secondary">{{ .Date.Format "January 2, 2006" }}</p>
+        {{ end }}
+        {{ if .Params.Tags }}
+            <p class="text-secondary">{{ partial "tags.html" . -}}</p>
+        {{ end }}
+        
+        <p>{{ .Content }}</p>
+    </div>
+{{ end }}

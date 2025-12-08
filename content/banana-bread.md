@@ -1,6 +1,7 @@
 +++
 Title = "Banana bread"
-Date = 2025-12-7
+Date = 2025-12-07
+tags = ["Bread", "Desserts"]
 +++
 # 🍌 Easy Air-Fryer Banana Bread
 

@@ -1,9 +1,8 @@
 +++
-title = 'Mexican - Indian lentils'
-date = 2025-11-19T13:00:04Z
+title = 'Mexican dhal'
 +++
 
-# 🌶️🇲🇽 Spicy Potato Dhal with Guajillo, Ancho & Chipotle  
+# 🌶️ Spicy Potato Dhal with Guajillo, Ancho & Chipotle  
 **One-Pot • Mexican–Indian Fusion • Serves 2–3**
 
 ---
