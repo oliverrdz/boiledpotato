@@ -1,6 +1,7 @@
 +++
 Title = "Indian inspired pork on an air fryer"
 Date = 2025-12-07
+tags = ["pork", "indian"]
 +++
 
 # 🛒 Shopping List for Indian-Spiced Air Fryer Meal  

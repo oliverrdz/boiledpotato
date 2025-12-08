@@ -1,5 +1,6 @@
 +++
 title = "Ground beef with potatoes, Mexican style"
+tags = ["beef", "mexican"]
 +++
 
 # 🌶️ Ground Beef with Potatoes & Mexican Chiles  

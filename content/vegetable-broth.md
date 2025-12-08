@@ -1,5 +1,6 @@
 +++
 Title = "Vegetable broth"
+Tags = ["soups"]
 +++
 
 # 🥕 Simple Homemade Vegetable Broth + What To Do With the Vegetables After

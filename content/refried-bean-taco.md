@@ -1,6 +1,7 @@
 +++
 title = 'Refried Bean Taco'
-date = 2025-11-09T13:00:04Z
+date = 2025-11-09
+Tags = ["beef", "mexican"]
 +++
 
 # 🌮 Refried Bean Tacos with Queso Fresco & Mexican Salsa

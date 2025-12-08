@@ -1,5 +1,6 @@
 +++
 Title = "Air fryer salmon with asparagus"
+Tags = ["fish"]
 +++
 # Air Fryer Salmon + Asparagus Tips
 

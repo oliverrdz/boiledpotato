@@ -1,6 +1,7 @@
 +++
 Title = "Red Mexican rice"
 Date = 2025-11-25
+Tags = ["vegetarian", "mexican"]
 +++
 
 # 🌶️ Red Mexican Rice (Arroz Rojo) — 4 Meals

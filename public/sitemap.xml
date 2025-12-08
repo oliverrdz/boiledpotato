@@ -14,14 +14,34 @@
     <loc>http://localhost:1313/tags/desserts/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/indian/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/indian-inspired-pork-air-fryer/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pork/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vegetarian/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mexican/</loc>
+    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/red-mexican-rice/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/beef/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/refried-bean-taco/</loc>
-    <lastmod>2025-11-09T13:00:04+00:00</lastmod>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/air-fryer/</loc>
   </url><url>
     <loc>http://localhost:1313/air-fryer-roasted-chicken/</loc>
   </url><url>
@@ -29,9 +49,15 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/chicken/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/fish/</loc>
+  </url><url>
     <loc>http://localhost:1313/picadillo-ground-beef/</loc>
   </url><url>
     <loc>http://localhost:1313/mexican-dhal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/soups/</loc>
   </url><url>
     <loc>http://localhost:1313/vegetable-broth/</loc>
   </url>

@@ -1,5 +1,6 @@
 +++
 title = 'Mexican dhal'
+tags = ["vegetarian", "mexican", "indian"]
 +++
 
 # 🌶️ Spicy Potato Dhal with Guajillo, Ancho & Chipotle  

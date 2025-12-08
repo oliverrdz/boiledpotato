@@ -1,5 +1,6 @@
 +++
 title = "Air fryer roasted chicken"
+Tags = ["chicken"]
 +++
 
 # 🔥 Air Fryer Roast Chicken (Whole Bird)
