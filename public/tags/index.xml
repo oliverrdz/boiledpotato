@@ -2,87 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Boiled Potato</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost/tags/</link>
     <description>Recent content in Tags on Boiled Potato</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Air Fryer</title>
-      <link>http://localhost:1313/tags/air-fryer/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/air-fryer/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bread</title>
-      <link>http://localhost:1313/tags/bread/</link>
+      <link>http://localhost/tags/bread/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bread/</guid>
+      <guid>http://localhost/tags/bread/</guid>
       <description></description>
     </item>
     <item>
       <title>Desserts</title>
-      <link>http://localhost:1313/tags/desserts/</link>
+      <link>http://localhost/tags/desserts/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/desserts/</guid>
+      <guid>http://localhost/tags/desserts/</guid>
       <description></description>
     </item>
     <item>
       <title>Indian</title>
-      <link>http://localhost:1313/tags/indian/</link>
+      <link>http://localhost/tags/indian/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/indian/</guid>
+      <guid>http://localhost/tags/indian/</guid>
       <description></description>
     </item>
     <item>
       <title>Pork</title>
-      <link>http://localhost:1313/tags/pork/</link>
+      <link>http://localhost/tags/pork/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pork/</guid>
+      <guid>http://localhost/tags/pork/</guid>
       <description></description>
     </item>
     <item>
       <title>Vegetarian</title>
-      <link>http://localhost:1313/tags/vegetarian/</link>
+      <link>http://localhost/tags/vegetarian/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vegetarian/</guid>
+      <guid>http://localhost/tags/vegetarian/</guid>
       <description></description>
     </item>
     <item>
       <title>Mexican</title>
-      <link>http://localhost:1313/tags/mexican/</link>
+      <link>http://localhost/tags/mexican/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mexican/</guid>
+      <guid>http://localhost/tags/mexican/</guid>
       <description></description>
     </item>
     <item>
       <title>Beef</title>
-      <link>http://localhost:1313/tags/beef/</link>
+      <link>http://localhost/tags/beef/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/beef/</guid>
+      <guid>http://localhost/tags/beef/</guid>
       <description></description>
     </item>
     <item>
       <title>Chicken</title>
-      <link>http://localhost:1313/tags/chicken/</link>
+      <link>http://localhost/tags/chicken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chicken/</guid>
+      <guid>http://localhost/tags/chicken/</guid>
       <description></description>
     </item>
     <item>
       <title>Fish</title>
-      <link>http://localhost:1313/tags/fish/</link>
+      <link>http://localhost/tags/fish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fish/</guid>
+      <guid>http://localhost/tags/fish/</guid>
       <description></description>
     </item>
     <item>
       <title>Soups</title>
-      <link>http://localhost:1313/tags/soups/</link>
+      <link>http://localhost/tags/soups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/soups/</guid>
+      <guid>http://localhost/tags/soups/</guid>
       <description></description>
     </item>
   </channel>

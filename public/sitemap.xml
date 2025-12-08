@@ -2,63 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/banana-bread/</loc>
+    <loc>http://localhost/banana-bread/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bread/</loc>
+    <loc>http://localhost/tags/bread/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/desserts/</loc>
+    <loc>http://localhost/tags/desserts/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/indian/</loc>
+    <loc>http://localhost/tags/indian/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/indian-inspired-pork-air-fryer/</loc>
+    <loc>http://localhost/indian-inspired-pork-air-fryer/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pork/</loc>
+    <loc>http://localhost/tags/pork/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost/tags/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vegetarian/</loc>
+    <loc>http://localhost/tags/vegetarian/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mexican/</loc>
+    <loc>http://localhost/tags/mexican/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/red-mexican-rice/</loc>
+    <loc>http://localhost/red-mexican-rice/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/beef/</loc>
+    <loc>http://localhost/tags/beef/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/refried-bean-taco/</loc>
+    <loc>http://localhost/refried-bean-taco/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/air-fryer/</loc>
+    <loc>http://localhost/air-fryer-roasted-chicken/</loc>
   </url><url>
-    <loc>http://localhost:1313/air-fryer-roasted-chicken/</loc>
+    <loc>http://localhost/air-fryer-salmon/</loc>
   </url><url>
-    <loc>http://localhost:1313/air-fryer-salmon/</loc>
+    <loc>http://localhost/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost/tags/chicken/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/chicken/</loc>
+    <loc>http://localhost/tags/fish/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/fish/</loc>
+    <loc>http://localhost/picadillo-ground-beef/</loc>
   </url><url>
-    <loc>http://localhost:1313/picadillo-ground-beef/</loc>
+    <loc>http://localhost/mexican-dhal/</loc>
   </url><url>
-    <loc>http://localhost:1313/mexican-dhal/</loc>
+    <loc>http://localhost/tags/soups/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/soups/</loc>
-  </url><url>
-    <loc>http://localhost:1313/vegetable-broth/</loc>
+    <loc>http://localhost/vegetable-broth/</loc>
   </url>
 </urlset>
