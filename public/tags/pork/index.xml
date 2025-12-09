@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pork on Boiled Potato</title>
-    <link>https://boiledpotato.xyz/tags/pork/</link>
+    <link>http://localhost:1313/tags/pork/</link>
     <description>Recent content in Pork on Boiled Potato</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://boiledpotato.xyz/tags/pork/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pibil Pork</title>
+      <link>http://localhost:1313/pork-pibil/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pork-pibil/</guid>
+      <description>&lt;h2 id=&#34;grocery-list&#34;&gt;Grocery List&lt;/h2&gt;&#xA;&lt;h3 id=&#34;produce&#34;&gt;Produce&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 large orange (for juice)&lt;/li&gt;&#xA;&lt;li&gt;2 limes&lt;/li&gt;&#xA;&lt;li&gt;1 red onion&lt;/li&gt;&#xA;&lt;li&gt;4 garlic cloves&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;pantry&#34;&gt;Pantry&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 packet store-bought achiote paste (e.g., El Yucateco or similar)&lt;/li&gt;&#xA;&lt;li&gt;Apple cider vinegar&lt;/li&gt;&#xA;&lt;li&gt;Chicken stock or water&lt;/li&gt;&#xA;&lt;li&gt;Corn tortillas (for serving, optional)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;spices&#34;&gt;Spices&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Salt&lt;/li&gt;&#xA;&lt;li&gt;Black pepper&lt;/li&gt;&#xA;&lt;li&gt;Oregano (optional)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;proteins&#34;&gt;Proteins&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1.2–1.5 kg pork shoulder (boneless or bone-in)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Banana leaves (optional, for lining slow cooker)&lt;/li&gt;&#xA;&lt;li&gt;Pickled red onions (optional for serving)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;utensils-list&#34;&gt;Utensils List&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Slow cooker&lt;/li&gt;&#xA;&lt;li&gt;Mixing bowl&lt;/li&gt;&#xA;&lt;li&gt;Citrus juicer (optional)&lt;/li&gt;&#xA;&lt;li&gt;Knife &amp;amp; chopping board&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ingredients-46-servings&#34;&gt;Ingredients (4–6 servings)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1.2–1.5 kg pork shoulder, cut into large chunks&lt;/li&gt;&#xA;&lt;li&gt;50–100 g store-bought achiote paste (½–1 block)&lt;/li&gt;&#xA;&lt;li&gt;Juice of 1 large orange&lt;/li&gt;&#xA;&lt;li&gt;Juice of 2 limes&lt;/li&gt;&#xA;&lt;li&gt;2 tbsp apple cider vinegar&lt;/li&gt;&#xA;&lt;li&gt;4 garlic cloves, minced&lt;/li&gt;&#xA;&lt;li&gt;1 small red onion, sliced&lt;/li&gt;&#xA;&lt;li&gt;120 ml chicken stock or water&lt;/li&gt;&#xA;&lt;li&gt;1 tsp salt (adjust to taste)&lt;/li&gt;&#xA;&lt;li&gt;½ tsp black pepper&lt;/li&gt;&#xA;&lt;li&gt;1 tsp dried oregano (optional)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;meal-prep-steps&#34;&gt;Meal Prep Steps&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cut pork shoulder into large chunks (roughly fist-sized).&lt;/li&gt;&#xA;&lt;li&gt;Mince the garlic and slice the red onion.&lt;/li&gt;&#xA;&lt;li&gt;Juice the orange and limes.&lt;/li&gt;&#xA;&lt;li&gt;In a bowl, crumble the achiote paste and mix with citrus juice, vinegar, garlic, salt, pepper, oregano, and stock to form a marinade.&lt;/li&gt;&#xA;&lt;li&gt;Optional: Rinse banana leaves with warm water to soften.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;cooking-instructions-slow-cooker&#34;&gt;Cooking Instructions (Slow Cooker)&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Prepare the base&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Indian inspired pork on an air fryer</title>
-      <link>https://boiledpotato.xyz/indian-inspired-pork-air-fryer/</link>
+      <link>http://localhost:1313/indian-inspired-pork-air-fryer/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/indian-inspired-pork-air-fryer/</guid>
+      <guid>http://localhost:1313/indian-inspired-pork-air-fryer/</guid>
       <description>&lt;h1 id=&#34;-shopping-list-for-indian-spiced-air-fryer-meal&#34;&gt;🛒 Shopping List for Indian-Spiced Air Fryer Meal&lt;/h1&gt;&#xA;&lt;p&gt;(Servings: 3–4)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-protein&#34;&gt;🥩 Protein&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 pork tenderloin (600–800 g)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-vegetables--starch&#34;&gt;🥔 Vegetables &amp;amp; Starch&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;400–500 g potatoes (baby or standard, any variety)&lt;/li&gt;&#xA;&lt;li&gt;300 g green beans&lt;/li&gt;&#xA;&lt;li&gt;250 g asparagus&lt;/li&gt;&#xA;&lt;li&gt;1 lemon (for finishing)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-spices-only-buy-whats-missing&#34;&gt;🌿 Spices (Only buy what&amp;rsquo;s missing)&lt;/h2&gt;&#xA;&lt;p&gt;You already have:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cumin seeds&lt;/li&gt;&#xA;&lt;li&gt;Coriander seeds&lt;/li&gt;&#xA;&lt;li&gt;Turmeric&lt;/li&gt;&#xA;&lt;li&gt;Garam masala&lt;/li&gt;&#xA;&lt;li&gt;Ground coriander&lt;/li&gt;&#xA;&lt;li&gt;Ground cinnamon&lt;/li&gt;&#xA;&lt;li&gt;Hot chilli powder&lt;/li&gt;&#xA;&lt;li&gt;Cardamom pods&lt;/li&gt;&#xA;&lt;li&gt;Whole cloves&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Optional if you want to enhance:&lt;/p&gt;</description>
     </item>
   </channel>

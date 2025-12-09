@@ -2,87 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://boiledpotato.xyz/air-fryer-roasted-chicken/</loc>
+    <loc>http://localhost:1313/air-fryer-roasted-chicken/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/categories/american/</loc>
+    <loc>http://localhost:1313/categories/american/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/categories/baking/</loc>
+    <loc>http://localhost:1313/categories/baking/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/banana-bread/</loc>
+    <loc>http://localhost:1313/banana-bread/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/beef/</loc>
+    <loc>http://localhost:1313/tags/beef/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/barbacoa/</loc>
+    <loc>http://localhost:1313/barbacoa/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/chorizo/</loc>
+    <loc>http://localhost:1313/chorizo/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/chicken/</loc>
+    <loc>http://localhost:1313/tags/chicken/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/easy/</loc>
+    <loc>http://localhost:1313/chicken-mole/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/categories/general/</loc>
+    <loc>http://localhost:1313/tags/easy/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/categories/mexican/</loc>
+    <loc>http://localhost:1313/enfrijoladas/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/mexican/</loc>
+    <loc>http://localhost:1313/garlic-pasta/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/categories/recipes/</loc>
+    <loc>http://localhost:1313/categories/general/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/chilaquiles/</loc>
+    <loc>http://localhost:1313/categories/italian/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/red-mexican-rice/</loc>
+    <loc>http://localhost:1313/loaded-nachos/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/refried-bean-taco/</loc>
+    <loc>http://localhost:1313/categories/mexican/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/slow-cooker/</loc>
+    <loc>http://localhost:1313/tags/mexican/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/</loc>
+    <loc>http://localhost:1313/pork-pibil/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/vegetable-broth/</loc>
+    <loc>http://localhost:1313/tags/pork/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/vegetarian/</loc>
+    <loc>http://localhost:1313/quedadillas/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/indian/</loc>
+    <loc>http://localhost:1313/racheros-eggs/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/recipes/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/chilaquiles/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/red-mexican-rice/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/refried-bean-taco/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/slow-cooker/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/steak-tacos/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/vegetable-broth/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vegetarian/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/indian/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/indian-inspired-pork-air-fryer/</loc>
+    <loc>http://localhost:1313/indian-inspired-pork-air-fryer/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/pork/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/air-fryer-salmon/</loc>
   </url><url>
-    <loc>https://boiledpotato.xyz/air-fryer-salmon/</loc>
+    <loc>http://localhost:1313/tags/fish/</loc>
   </url><url>
-    <loc>https://boiledpotato.xyz/tags/fish/</loc>
+    <loc>http://localhost:1313/picadillo-ground-beef/</loc>
   </url><url>
-    <loc>https://boiledpotato.xyz/picadillo-ground-beef/</loc>
-  </url><url>
-    <loc>https://boiledpotato.xyz/mexican-dhal/</loc>
+    <loc>http://localhost:1313/mexican-dhal/</loc>
   </url>
 </urlset>
