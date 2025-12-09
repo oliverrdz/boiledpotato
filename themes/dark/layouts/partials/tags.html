@@ -1,3 +1,5 @@
-{{ range .Params.tags }}
-    <a href="{{ add (absURL `tags/`) (.) }}">{{ . }}</a>
-{{ end }}
+{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
+  {{ end }}
+
+

@@ -4,7 +4,15 @@
         {{ if .Params.Date }}
             <p class="text-secondary">{{ .Date.Format "January 2, 2006" }}</p>
         {{ end }}
-        <p class="text-secondary">{{ partial "tags.html" . -}}</p>
+        <p class="text-secondary">
+            {{ with .Params.tags }}
+              {{ range . }}
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">
+                  {{ . }}
+                </a>
+              {{ end }}
+            {{ end }}
+
         
         <p>{{ .Content }}</p>
     </div>

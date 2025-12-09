@@ -34,17 +34,23 @@
     <header class="text-center mb-4">
         <h1 class="text-light"><a href="/">Boiled Potato</a></h1>
       <p class="lead text-secondary">Potato roots. Big flavours.</p>
-      <p class="lead text-secondary">
+      <p class="lead text-secondary"><div class="lang-switcher">
+    <label for="lang-select" class="lang-label">
+      English
+    </label>
 
+    <select id="lang-select"
+            onchange="if (this.value) window.location.href=this.value;">
 
-  
-  
+        <option value="/en/air-fryer-salmon/" selected>
+          English
+        </option>
 
-  
-  
-
-
-
+        <option value="/es/" >
+          Español
+        </option>
+    </select>
+  </div>
     </header>
 
 <p></p>
@@ -57,9 +63,14 @@
         <h2><a href="/en/air-fryer-salmon/">Air fryer salmon with asparagus</a></h2>
         
         <p class="text-secondary">
-    <a href="https://boiledpotato.xyz/tags/fish">fish</a>
+            
+              
+                <a href="/en/tags/fish">
+                  fish
+                </a>
+              
+            
 
-</p>
         
         <p><h1 id="air-fryer-salmon--asparagus-tips">Air Fryer Salmon + Asparagus Tips</h1>
 <p>A quick, simple method to cook both <strong>salmon</strong> and <strong>asparagus tips</strong> together in the air fryer.</p>

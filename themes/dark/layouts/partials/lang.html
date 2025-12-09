@@ -1,26 +1,41 @@
-{{/* layouts/partials/lang.html */}}
+{{- /* Show only if site has more than one language */ -}}
+{{- if hugo.IsMultilingual -}}
+  {{- $currentLang := .Site.Language.Lang -}}
+  {{- $allLangs := .Site.Languages -}}
+  {{- $pageTrans := .AllTranslations -}}
+  {{- $homeTrans := .Site.Home.AllTranslations -}}
 
-{{ if hugo.IsMultilingual }}
-  {{ $page := . }}
-  {{ $translations := $page.AllTranslations }}
+  <div class="lang-switcher">
+    <label for="lang-select" class="lang-label">
+      {{ .Site.Language.LanguageName }}
+    </label>
 
-  {{/* Only show a dropdown if there is at least 1 other language version */}}
-  {{ if gt (len $translations) 1 }}
-    <div class="lang-switcher">
-      <form>
-        <label for="lang-select" class="sr-only">Language</label>
-        <select id="lang-select"
-                name="lang"
-                onchange="if (this.value) window.location.href = this.value;">
-          {{ range $t := $translations }}
-            <option value="{{ $t.Permalink }}"
-                    {{ if eq $t.Lang $page.Lang }}selected{{ end }}>
-              {{ $t.Site.Language.LanguageName }}
-            </option>
-          {{ end }}
-        </select>
-      </form>
-    </div>
-  {{ end }}
-{{ end }}
+    <select id="lang-select"
+            onchange="if (this.value) window.location.href=this.value;">
+      {{- range $allLangs }}
+        {{- $langCode := .Lang -}}
+        {{- $label := .LanguageName -}}
+
+        {{- /* Default URL: home page in this language */ -}}
+        {{- $url := "" -}}
+        {{- range $homeTrans }}
+          {{- if eq .Lang $langCode }}
+            {{- $url = .RelPermalink -}}
+          {{- end }}
+        {{- end }}
+
+        {{- /* If this page has a translation in this language, prefer that */ -}}
+        {{- range $pageTrans }}
+          {{- if eq .Lang $langCode }}
+            {{- $url = .RelPermalink -}}
+          {{- end }}
+        {{- end }}
+
+        <option value="{{ $url }}" {{ if eq $currentLang $langCode }}selected{{ end }}>
+          {{ $label }}
+        </option>
+      {{- end }}
+    </select>
+  </div>
+{{- end -}}
 

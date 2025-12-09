@@ -34,17 +34,23 @@
     <header class="text-center mb-4">
         <h1 class="text-light"><a href="/">Boiled Potato</a></h1>
       <p class="lead text-secondary">Potato roots. Big flavours.</p>
-      <p class="lead text-secondary">
+      <p class="lead text-secondary"><div class="lang-switcher">
+    <label for="lang-select" class="lang-label">
+      Español
+    </label>
 
+    <select id="lang-select"
+            onchange="if (this.value) window.location.href=this.value;">
 
-  
-  
+        <option value="/en/" >
+          English
+        </option>
 
-  
-  
-
-
-
+        <option value="/es/arroz-rojo/" selected>
+          Español
+        </option>
+    </select>
+  </div>
     </header>
 
 <p></p>
@@ -59,9 +65,18 @@
             <p class="text-secondary">December 9, 2025</p>
         
         <p class="text-secondary">
-    <a href="https://boiledpotato.xyz/tags/vegetariano">vegetariano</a>
+            
+              
+                <a href="/es/tags/vegetariano">
+                  vegetariano
+                </a>
+              
+                <a href="/es/tags/mexicano">
+                  mexicano
+                </a>
+              
+            
 
-</p>
         
         <p><h2 id="lista-de-compras">Lista de Compras</h2>
 <h3 id="verduras">Verduras</h3>

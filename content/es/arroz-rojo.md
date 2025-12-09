@@ -1,7 +1,7 @@
 ---
 title: "Arroz Rojo Mexicano"
 date: 2025-12-09
-tags: ["vegetariano"]
+tags: ["vegetariano", "mexicano"]
 categories: ["mexicano"]
 ---
 

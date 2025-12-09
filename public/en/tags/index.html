@@ -34,38 +34,23 @@
     <header class="text-center mb-4">
         <h1 class="text-light"><a href="/">Boiled Potato</a></h1>
       <p class="lead text-secondary">Potato roots. Big flavours.</p>
-      <p class="lead text-secondary">
+      <p class="lead text-secondary"><div class="lang-switcher">
+    <label for="lang-select" class="lang-label">
+      English
+    </label>
 
+    <select id="lang-select"
+            onchange="if (this.value) window.location.href=this.value;">
 
-  
-  
+        <option value="/en/tags/" selected>
+          English
+        </option>
 
-  
-  
-    <div class="lang-switcher">
-      <form>
-        <label for="lang-select" class="sr-only">Language</label>
-        <select id="lang-select"
-                name="lang"
-                onchange="if (this.value) window.location.href = this.value;">
-          
-            <option value="https://boiledpotato.xyz/en/tags/"
-                    selected>
-              English
-            </option>
-          
-            <option value="https://boiledpotato.xyz/es/tags/"
-                    >
-              Español
-            </option>
-          
-        </select>
-      </form>
-    </div>
-  
-
-
-
+        <option value="/es/tags/" >
+          Español
+        </option>
+    </select>
+  </div>
     </header>
 
 <p></p>
