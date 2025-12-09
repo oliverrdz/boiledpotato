@@ -42,6 +42,27 @@
 
   
   
+    <div class="lang-switcher">
+      <form>
+        <label for="lang-select" class="sr-only">Language</label>
+        <select id="lang-select"
+                name="lang"
+                onchange="if (this.value) window.location.href = this.value;">
+          
+            <option value="http://localhost:1313/en/enfrijoladas/"
+                    >
+              English
+            </option>
+          
+            <option value="http://localhost:1313/es/enfrijoladas/"
+                    selected>
+              Español
+            </option>
+          
+        </select>
+      </form>
+    </div>
+  
 
 
 

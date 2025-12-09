@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Pork</title>
+      <link>http://localhost:1313/en/tags/pork/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/pork/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Vegetarian</title>
       <link>http://localhost:1313/en/tags/vegetarian/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/en/tags/indian/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/tags/indian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pork</title>
-      <link>http://localhost:1313/en/tags/pork/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/pork/</guid>
       <description></description>
     </item>
     <item>

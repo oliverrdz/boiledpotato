@@ -65,6 +65,25 @@
     <loc>http://localhost:1313/en/tags/chicken/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/en/chicken-mole/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/enfrijoladas/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="http://localhost:1313/es/enfrijoladas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="http://localhost:1313/en/enfrijoladas/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/garlic-pasta/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/categories/general/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -78,7 +97,25 @@
                 href="http://localhost:1313/en/categories/general/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/categories/italian/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/loaded-nachos/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/categories/mexican/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/pork-pibil/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/pork/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/quedadillas/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/racheros-eggs/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/chilaquiles/</loc>
@@ -88,6 +125,9 @@
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/refried-bean-taco/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/steak-tacos/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
@@ -113,9 +153,6 @@
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/indian-inspired-pork-air-fryer/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/pork/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/air-fryer-salmon/</loc>
