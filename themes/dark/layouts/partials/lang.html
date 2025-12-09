@@ -1,0 +1,26 @@
+{{/* layouts/partials/lang.html */}}
+
+{{ if hugo.IsMultilingual }}
+  {{ $page := . }}
+  {{ $translations := $page.AllTranslations }}
+
+  {{/* Only show a dropdown if there is at least 1 other language version */}}
+  {{ if gt (len $translations) 1 }}
+    <div class="lang-switcher">
+      <form>
+        <label for="lang-select" class="sr-only">Language</label>
+        <select id="lang-select"
+                name="lang"
+                onchange="if (this.value) window.location.href = this.value;">
+          {{ range $t := $translations }}
+            <option value="{{ $t.Permalink }}"
+                    {{ if eq $t.Lang $page.Lang }}selected{{ end }}>
+              {{ $t.Site.Language.LanguageName }}
+            </option>
+          {{ end }}
+        </select>
+      </form>
+    </div>
+  {{ end }}
+{{ end }}
+
