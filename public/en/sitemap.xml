@@ -2,130 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://boiledpotato.xyz/en/air-fryer-roasted-chicken/</loc>
+    <loc>http://localhost:1313/en/air-fryer-roasted-chicken/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/categories/american/</loc>
+    <loc>http://localhost:1313/en/categories/american/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/categories/baking/</loc>
+    <loc>http://localhost:1313/en/categories/baking/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/banana-bread/</loc>
+    <loc>http://localhost:1313/en/banana-bread/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/beef/</loc>
+    <loc>http://localhost:1313/en/tags/beef/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/barbacoa/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/barbacoa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/barbacoa/"
-                />
-  </url><url>
-    <loc>https://boiledpotato.xyz/en/chorizo/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/en/</loc>
+    <loc>http://localhost:1313/en/barbacoa/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/"
+                href="http://localhost:1313/es/barbacoa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/"
+                href="http://localhost:1313/en/barbacoa/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/en/categories/</loc>
+    <loc>http://localhost:1313/en/chorizo/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/categories/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/categories/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/en/charro-beans/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/chicken/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/en/categories/general/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/categories/general/"
+                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/categories/general/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/en/categories/mexican/</loc>
+    <loc>http://localhost:1313/en/charro-beans/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/chilaquiles/</loc>
+    <loc>http://localhost:1313/en/tags/chicken/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/red-mexican-rice/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/en/refried-bean-taco/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/</loc>
+    <loc>http://localhost:1313/en/categories/general/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/tags/"
+                href="http://localhost:1313/es/categories/general/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/tags/"
+                href="http://localhost:1313/en/categories/general/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/en/vegetable-broth/</loc>
+    <loc>http://localhost:1313/en/categories/mexican/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/vegetarian/</loc>
+    <loc>http://localhost:1313/en/chilaquiles/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/indian/</loc>
+    <loc>http://localhost:1313/en/red-mexican-rice/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/refried-bean-taco/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="http://localhost:1313/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/vegetable-broth/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/vegetarian/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/indian/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/indian-inspired-pork-air-fryer/</loc>
+    <loc>http://localhost:1313/en/indian-inspired-pork-air-fryer/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/pork/</loc>
+    <loc>http://localhost:1313/en/tags/pork/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/air-fryer-salmon/</loc>
+    <loc>http://localhost:1313/en/air-fryer-salmon/</loc>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/fish/</loc>
+    <loc>http://localhost:1313/en/tags/fish/</loc>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/picadillo-ground-beef/</loc>
+    <loc>http://localhost:1313/en/picadillo-ground-beef/</loc>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/mexican/</loc>
+    <loc>http://localhost:1313/en/tags/mexican/</loc>
   </url><url>
-    <loc>https://boiledpotato.xyz/en/mexican-dhal/</loc>
+    <loc>http://localhost:1313/en/mexican-dhal/</loc>
   </url>
 </urlset>
