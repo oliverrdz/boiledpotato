@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Boiled Potato</title>
-    <link>http://localhost:1313/es/categories/</link>
+    <link>https://boiledpotato.xyz/es/categories/</link>
     <description>Recent content in Categories on Boiled Potato</description>
     <generator>Hugo</generator>
     <language>es-mx</language>
     <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://boiledpotato.xyz/es/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Americano</title>
-      <link>http://localhost:1313/es/categories/americano/</link>
+      <link>https://boiledpotato.xyz/es/categories/americano/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/categories/americano/</guid>
+      <guid>https://boiledpotato.xyz/es/categories/americano/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
-      <link>http://localhost:1313/es/categories/general/</link>
+      <link>https://boiledpotato.xyz/es/categories/general/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/categories/general/</guid>
+      <guid>https://boiledpotato.xyz/es/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Horneado</title>
-      <link>http://localhost:1313/es/categories/horneado/</link>
+      <link>https://boiledpotato.xyz/es/categories/horneado/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/categories/horneado/</guid>
+      <guid>https://boiledpotato.xyz/es/categories/horneado/</guid>
       <description></description>
     </item>
     <item>
       <title>Italiano</title>
-      <link>http://localhost:1313/es/categories/italiano/</link>
+      <link>https://boiledpotato.xyz/es/categories/italiano/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/categories/italiano/</guid>
+      <guid>https://boiledpotato.xyz/es/categories/italiano/</guid>
       <description></description>
     </item>
     <item>
       <title>Mexicano</title>
-      <link>http://localhost:1313/es/categories/mexicano/</link>
+      <link>https://boiledpotato.xyz/es/categories/mexicano/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/categories/mexicano/</guid>
+      <guid>https://boiledpotato.xyz/es/categories/mexicano/</guid>
       <description></description>
     </item>
   </channel>

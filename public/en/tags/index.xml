@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Boiled Potato</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://boiledpotato.xyz/en/tags/</link>
     <description>Recent content in Tags on Boiled Potato</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://boiledpotato.xyz/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beef</title>
-      <link>http://localhost:1313/en/tags/beef/</link>
+      <link>https://boiledpotato.xyz/en/tags/beef/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/beef/</guid>
+      <guid>https://boiledpotato.xyz/en/tags/beef/</guid>
       <description></description>
     </item>
     <item>
       <title>Chicken</title>
-      <link>http://localhost:1313/en/tags/chicken/</link>
+      <link>https://boiledpotato.xyz/en/tags/chicken/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/chicken/</guid>
+      <guid>https://boiledpotato.xyz/en/tags/chicken/</guid>
       <description></description>
     </item>
     <item>
       <title>Pork</title>
-      <link>http://localhost:1313/en/tags/pork/</link>
+      <link>https://boiledpotato.xyz/en/tags/pork/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/pork/</guid>
+      <guid>https://boiledpotato.xyz/en/tags/pork/</guid>
       <description></description>
     </item>
     <item>
       <title>Vegetarian</title>
-      <link>http://localhost:1313/en/tags/vegetarian/</link>
+      <link>https://boiledpotato.xyz/en/tags/vegetarian/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/vegetarian/</guid>
+      <guid>https://boiledpotato.xyz/en/tags/vegetarian/</guid>
       <description></description>
     </item>
     <item>
       <title>Indian</title>
-      <link>http://localhost:1313/en/tags/indian/</link>
+      <link>https://boiledpotato.xyz/en/tags/indian/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/indian/</guid>
+      <guid>https://boiledpotato.xyz/en/tags/indian/</guid>
       <description></description>
     </item>
     <item>
       <title>Fish</title>
-      <link>http://localhost:1313/en/tags/fish/</link>
+      <link>https://boiledpotato.xyz/en/tags/fish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/fish/</guid>
+      <guid>https://boiledpotato.xyz/en/tags/fish/</guid>
       <description></description>
     </item>
     <item>
       <title>Mexican</title>
-      <link>http://localhost:1313/en/tags/mexican/</link>
+      <link>https://boiledpotato.xyz/en/tags/mexican/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/mexican/</guid>
+      <guid>https://boiledpotato.xyz/en/tags/mexican/</guid>
       <description></description>
     </item>
   </channel>
