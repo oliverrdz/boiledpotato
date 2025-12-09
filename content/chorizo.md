@@ -3,7 +3,7 @@ Title = "Chorizo"
 Date = 2025-12-09
 Tags = ["beef", "mexican"]
 +++
-# 🌶️ Easy Mexican Chorizo (Homemade)
+# 🌶️ Chorizo (Homemade)
 
 ## 🛒 Shopping List
 - 500 g minced pork (20% fat)
