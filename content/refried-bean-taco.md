@@ -1,121 +1,105 @@
-+++
-title = 'Refried Bean Taco'
-date = 2025-11-09
-Tags = ["beef", "mexican"]
-+++
+---
+title: "Refried Beans Taco"
+date: 2025-12-09
+tags: ["vegetarian"]
+categories: ["mexican"]
+---
 
-# 🌮 Refried Bean Tacos with Queso Fresco & Mexican Salsa
+## Grocery List
 
-A hearty, high-fiber vegetarian taco made with creamy refried beans, soft tortillas, and fresh queso fresco.  
-Optional salsa adds a zesty touch!
+### Produce
+- 1 small onion  
+- 2 garlic cloves  
+- 1 lime  
+- Fresh coriander (optional)  
+- 1 tomato (for topping)  
+- Lettuce (optional)
+
+### Pantry
+- 1 can refried beans (or 1 can pinto/black beans)  
+- Corn or flour tortillas  
+- Vegetable oil  
+- Salt  
+- Black pepper  
+- Salsa or hot sauce  
+- Cooking oil spray (optional)
+
+### Spices
+- Ground cumin  
+- Smoked paprika  
+- Oregano  
+- Chilli powder (optional)
+
+### Proteins
+- None (vegetarian)
+
+### Other
+- Grated cheese (cheddar or Mexican blend)  
+- Sour cream or Greek yoghurt (optional)  
+- Pickled jalapeños (optional)
 
 ---
 
-## 🛒 Grocery List (Serves 2 – 4 tacos)
-
-### For the refried beans
-- 1 cup **cooked pinto beans** (or 1 can, drained and rinsed)
-- 1 tbsp **olive oil**
-- 1 small **onion**, finely chopped
-- 1 clove **garlic**, minced
-- ½ tsp **ground cumin**
-- Salt to taste
-- ¼ cup **water or broth**
-
-### For the tortillas
-- 4 small **corn or flour tortillas**
-- ½ tsp **olive oil** (for warming)
-
-### For the queso fresco (optional)
-- 100 g **queso fresco** or **crumbly feta** (if unavailable)
-- Optional: pinch of **salt** and **lime juice**
-
-### Optional Mexican salsa
-- 1 medium **tomato**, chopped
-- ½ small **onion**, finely chopped
-- 1 **jalapeño or green chili**, finely diced
-- 1 tbsp **fresh coriander (cilantro)**, chopped
-- Juice of ½ **lime**
-- Salt to taste
+## Utensils List
+- Frying pan  
+- Spatula  
+- Small knife  
+- Chopping board  
+- Spoon  
+- Optional: skillet for warming tortillas
 
 ---
 
-## 🧑‍🍳 Meal Prep & Instructions
-
-### 1. Prepare the Refried Beans
-1. Heat olive oil in a pan over medium heat.  
-2. Add chopped onion and sauté until translucent (about 3–4 min).  
-3. Add minced garlic and cook 30 seconds.  
-4. Add the cooked beans, cumin, and salt.  
-5. Mash with a fork or potato masher while stirring.  
-6. Add a little water or broth until creamy.  
-7. Simmer for 5–7 minutes, stirring occasionally.  
-8. Adjust salt and set aside.
-
-### 2. Prepare the Queso Fresco (Optional)
-1. Crumble queso fresco or feta into small pieces.  
-2. Toss with a few drops of lime juice and a pinch of salt.  
-3. Chill until serving.
-
-### 3. Make the Salsa (Optional)
-1. Combine chopped tomato, onion, chili, and coriander in a bowl.  
-2. Add lime juice and salt to taste.  
-3. Mix and let rest 10 minutes for flavors to develop.
-
-### 4. Warm the Tortillas
-1. Heat a pan over medium heat.  
-2. Add a drop of olive oil and warm each tortilla for ~30 seconds per side until soft and lightly golden.
-
-### 5. Assemble the Tacos
-1. Spread 2–3 tbsp of refried beans onto each warm tortilla.  
-2. Top with crumbled queso fresco (optional).  
-3. Spoon fresh salsa on top.  
-4. Fold and serve immediately.
+## Ingredients (2 servings)
+- 1 can refried beans (400g) or 1 can pinto/black beans, lightly mashed  
+- 1 tbsp vegetable oil  
+- 1 small onion, finely chopped  
+- 2 garlic cloves, minced  
+- 1 tsp ground cumin  
+- 1 tsp smoked paprika  
+- ½ tsp oregano  
+- Salt & pepper to taste  
+- 4–6 tortillas  
+- 50g grated cheese  
+- 1 tomato, diced  
+- Lime wedges  
+- Fresh coriander, chopped (optional)  
+- Salsa or hot sauce  
 
 ---
 
-## 🍽️ Nutrition Information (per taco, without salsa)
-{{< bootstrap-table "table table-dark table-striped table-bordered" >}}
-| Component | Amount |
-|------------|---------|
-| **Calories** | ~210 kcal |
-| **Protein** | 9 g |
-| **Carbohydrates** | 25 g |
-| **Fat** | 8 g |
-| **Fiber** | 6 g |
-| **Sodium** | Moderate (depends on salt & cheese) |
-{{< /bootstrap-table >}}
-
-**With queso fresco and salsa:** +60 kcal, +4 g protein, +2 g fat.
+## Meal Prep Steps
+1. Chop the onion, garlic, tomato, and coriander.  
+2. Grate the cheese.  
+3. Warm tortillas in a skillet or microwave.  
+4. Open refried beans can and set aside.
 
 ---
 
-## 🕒 Meal Prep Tips
-- **Batch cook** beans ahead of time and refrigerate up to 4 days.  
-- **Freeze** extra refried beans for up to 2 months.  
-- **Warm tortillas** just before serving for best texture.  
-- Salsa can be made a day in advance and stored in the fridge.
+## Cooking Instructions
+
+1. **Sauté aromatics**  
+   Heat 1 tbsp oil in a frying pan over medium heat. Add onion and cook 3–4 minutes until soft. Add garlic and cook 1 minute more.
+
+2. **Season**  
+   Add cumin, paprika, oregano, salt, and pepper. Stir for 30 seconds to bloom the spices.
+
+3. **Cook the beans**  
+   Add the refried beans (or mashed beans). Stir to combine. If too thick, add 2–4 tbsp water. Cook 3–5 minutes until creamy.
+
+4. **Warm tortillas**  
+   Heat tortillas in a dry skillet for 10–15 seconds each side until soft.
+
+5. **Assemble tacos**  
+   Spoon warm refried beans onto each tortilla.  
+   Top with cheese, tomato, coriander, jalapeños, and a squeeze of lime.  
+   Add salsa or hot sauce.
 
 ---
 
-## 💪 Health Benefits
-- **High in fiber** → Supports digestion and satiety.  
-- **Plant-based protein** from beans → Helps muscle repair.  
-- **Olive oil** → Source of heart-healthy monounsaturated fats.  
-- **Queso fresco** (optional) → Adds calcium and flavor in moderation.  
-- **Tomato and lime** in salsa → Boost vitamin C and antioxidants.
-
----
-
-### 🌿 Variations
-- Add **avocado slices** for creaminess.  
-- Use **black beans** instead of pinto.  
-- Swap **corn tortillas** for **whole wheat** for extra fiber.
-
----
-
-**Total time:** 25 minutes  
-**Difficulty:** Easy  
-**Servings:** 2 (4 tacos)
+## Storage & Reheating Instructions
+- **Refried beans**: Store in an airtight container for up to 3 days. Reheat in a pan with a splash of water.  
+- **Tortillas**: Keep wrapped in the fridge up to 3 days; warm in a skillet.  
+- **Assembled tacos**: Best eaten fresh—keep fillings separate until serving.
 
 

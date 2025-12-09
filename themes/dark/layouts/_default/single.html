@@ -4,9 +4,7 @@
         {{ if .Params.Date }}
             <p class="text-secondary">{{ .Date.Format "January 2, 2006" }}</p>
         {{ end }}
-        {{ if .Params.Tags }}
-            <p class="text-secondary">{{ partial "tags.html" . -}}</p>
-        {{ end }}
+        <p class="text-secondary">{{ partial "tags.html" . -}}</p>
         
         <p>{{ .Content }}</p>
     </div>

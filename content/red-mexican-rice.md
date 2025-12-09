@@ -1,87 +1,93 @@
-+++
-Title = "Red Mexican rice"
-Date = 2025-11-25
-Tags = ["vegetarian", "mexican"]
-+++
-
-# 🌶️ Red Mexican Rice (Arroz Rojo) — 4 Meals
-
-## Ingredients (4 servings)
-- 2 cups long-grain rice  
-- 3 medium tomatoes **or** 1 cup tomato passata  
-- 1 small onion  
-- 2 garlic cloves  
-- 1 tbsp tomato paste (optional)  
-- 3 cups chicken or vegetable broth  
-- 2 tbsp vegetable oil  
-- 1 tsp salt  
-- 1 tsp cumin  
-- 1 tsp paprika  
-- 1 bay leaf  
-- *Optional:* ½ cup peas, 1 diced carrot, 1 jalapeño
-
+---
+title: "Red Mexican Rice"
+date: 2025-12-09
+tags: ["vegetarian"]
+categories: ["mexican"]
 ---
 
-## Instructions
+## Grocery List
 
-### 1) Make the tomato base
-Blend until smooth:
-- Tomatoes  
-- Onion  
-- Garlic  
-- Tomato paste  
-- ½ cup of the broth
-
-### 2) Toast the rice
-Heat oil in a pot. Add rice and sauté for **5–7 minutes** until lightly golden.
-
-### 3) Combine
-Add the blended tomato mixture and simmer for 2 minutes.  
-Add the remaining broth, cumin, paprika, salt, and bay leaf.
-
-### 4) Cook
-Bring to a light boil → reduce heat → cover → cook **18 minutes**.  
-Turn off heat and rest **10 minutes**, still covered.
-
-### 5) Fluff
-Remove bay leaf → add peas/carrots if using → fluff with a fork.
-
----
-
-# 🧊 Meal Prep (4 meals)
-- Portion into **4 containers** (≈1–1.25 cups each).  
-- Cool for 20 minutes before sealing.
-
-### Storage
-- **Fridge:** 4–5 days  
-- **Freezer:** 2 months  
-- **Reheat:** Add 1 tbsp water, microwave 2–3 min.
-
----
-
-# 🛒 Grocery List
-
-### Fresh
-- 3 medium tomatoes  
-- 1 onion  
-- 2 garlic cloves  
-- Optional: carrots, peas, jalapeño, lime, cilantro
+### Produce
+- 1 medium onion  
+- 2 cloves garlic  
+- 1 medium tomato (optional, for extra freshness)  
+- 1 lime (optional, for serving)  
 
 ### Pantry
-- Long-grain rice  
-- Tomato paste  
-- Chicken/veg broth  
-- Vegetable oil  
+- Long-grain rice (1 cup)  
+- Tomato purée or passata  
+- Vegetable stock cube  
+- Sunflower or vegetable oil  
+
+### Spices
+- Ground cumin  
 - Salt  
-- Cumin  
-- Paprika  
-- Bay leaf
+- Black pepper  
+
+### Proteins
+- *None (vegetarian)*
+
+### Other
+- Water  
 
 ---
 
-# 📊 Macros per Meal (approx.)
-- **Calories:** ~320 kcal  
-- **Carbs:** ~60 g  
-- **Protein:** ~5 g  
-- **Fat:** ~7 g  
-- **Fiber:** ~2 g
+## Utensils List
+- Medium saucepan with lid  
+- Wooden spoon  
+- Fine sieve (for rinsing rice)  
+- Knife and chopping board  
+
+---
+
+## Ingredients (serves 4)
+- 1 cup long-grain rice, rinsed until water runs clear  
+- 2 tbsp sunflower oil  
+- 1 small onion, finely diced  
+- 2 cloves garlic, minced  
+- 3 tbsp tomato purée (or 120 ml passata)  
+- 1 ½ cups vegetable stock (made from 1 stock cube)  
+- ½ tsp ground cumin  
+- ½ tsp salt (adjust to taste)  
+- Pinch of black pepper  
+- Optional: 1 small tomato, blended or finely chopped for extra colour  
+
+---
+
+## Meal Prep Steps
+1. Rinse the rice thoroughly with cold water to remove excess starch.  
+2. Dice the onion and mince the garlic.  
+3. Prepare the vegetable stock.  
+4. If using fresh tomato, blend or finely chop.  
+
+---
+
+## Cooking Instructions
+1. **Toast the rice:**  
+   Heat the oil in the saucepan over medium heat. Add the rinsed rice and stir frequently for 3–4 minutes until lightly golden.
+
+2. **Sauté aromatics:**  
+   Add the diced onion and cook for 2 minutes until softened. Stir in the garlic and cook for 30 seconds.
+
+3. **Add tomato base:**  
+   Add the tomato purée (or passata) and cumin. Stir to coat the rice.
+
+4. **Simmer:**  
+   Pour in the vegetable stock, add salt and pepper, and stir once. Bring to a gentle boil.
+
+5. **Steam:**  
+   Lower the heat to the smallest flame, cover with a tight-fitting lid, and cook for 15 minutes.  
+   Do **not** open the lid.
+
+6. **Rest:**  
+   Remove from heat and rest covered for 10 minutes. Fluff with a fork before serving.
+
+---
+
+## Storage & Reheating Instructions
+- **Fridge:** Store in an airtight container for up to 4 days.  
+- **Freezer:** Freeze for up to 3 months. Defrost in the fridge overnight.  
+- **Reheat:** Microwave with a splash of water and cover; heat until steaming.  
+- **Safety tip:** Do not reheat rice more than once.
+
+

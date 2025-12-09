@@ -1,86 +1,95 @@
-+++
-title = "Air fryer roasted chicken"
-Tags = ["chicken"]
-+++
-
-# 🔥 Air Fryer Roast Chicken (Whole Bird)
-
-Here’s a **simple, reliable way to roast a whole chicken in an air fryer**—crispy skin, juicy meat, minimal effort.
-
+---
+title: "Air Fryer Rotisserie Chicken"
+date: 2025-12-09
+tags: ["chicken"]
+categories: ["american"]
 ---
 
-## ⭐ What You’ll Need
-- 1 whole chicken (1.2–1.8 kg fits most air fryers)
-- 1–2 tbsp olive oil (or melted butter)
-- Salt & pepper
-- Optional extras: paprika, garlic powder, onion powder, thyme, rosemary, lemon
+## Grocery List
 
----
+### Produce
+- 1 lemon  
+- 1 small garlic bulb  
+- Fresh thyme or rosemary (optional)
 
-## 🧂 Quick Seasoning Mix (optional)
-Mix:
-- 1 tsp paprika  
-- 1 tsp garlic powder  
-- ½ tsp onion powder  
-- ½–1 tsp salt  
-- ½ tsp black pepper  
-- ½ tsp dried thyme  
+### Pantry
+- Olive oil  
+- Honey (optional for glaze)
 
-Rub this all over after oiling the chicken.
-
----
-
-## 🍗 Instructions
-
-### 1️⃣ Prepare the chicken
-- Pat the chicken dry with paper towels (crispier skin).
-- Rub all over with olive oil or butter.
-- Season generously, including under the wings and inside the cavity.
-- Optional: Stuff the cavity with **half a lemon** and **2 crushed garlic cloves**.
-
-### 2️⃣ Preheat the air fryer  
-- Preheat to **190°C (375°F)** for 5 minutes.
-
-### 3️⃣ Cook breast-side down  
-- Place the chicken **breast-side down** in the air fryer basket.
-
-### 4️⃣ Air fry  
-**Total time: 50–60 minutes** (depends on size).
-
-Cook in two stages:
-- **Stage 1:** 190°C for **30 minutes**, breast-side down.
-- **Stage 2:** Flip the chicken breast-side up and cook **20–30 minutes** more.
-
-### 5️⃣ Check doneness  
-- Use a thermometer in the thickest part of the thigh: **75°C (165°F)** = done.
-- If the top browns too quickly, lower heat to **180°C** for the last 10–15 minutes.
-
-### 6️⃣ Rest  
-- Let rest **10 minutes** before carving so juices settle.
-
----
-
-## 🍽️ Tips for Best Results
-- **Dry skin = crispy skin** → pat very well before seasoning.
-- If your air fryer is small, use a **spatchcocked chicken** (cut backbone out and flatten).
-- Rub butter under the breast skin for extra flavour.
-- For extra crispness: 5 minutes at **200°C** at the end.
-
----
-
-## ⭐ Optional Variations
-
-### 🌿 Herb & Garlic
-Olive oil + rosemary + thyme + garlic paste + lemon zest.
-
-### 🌶️ Spicy
-Paprika + cayenne + garlic powder + black pepper.
-
-### 🍗 Rotisserie-style
+### Spices
+- Salt  
+- Black pepper  
 - Paprika  
 - Garlic powder  
 - Onion powder  
-- Salt  
-- Pepper  
-- Oregano  
-Baste with melted butter halfway through.
+- Dried oregano  
+- Ground cumin (optional)
+
+### Proteins
+- 1 whole chicken (1.4–1.8 kg), UK supermarket standard
+
+### Other
+- Butcher’s twine (optional)
+
+---
+
+## Utensils List
+- Air fryer (basket or dual-zone)  
+- Small bowl for spice rub  
+- Brush or spoon for applying oil  
+- Tongs  
+- Meat thermometer (recommended)
+
+---
+
+## Ingredients (Serves 4)
+- 1 whole chicken (1.4–1.8 kg)  
+- 2 tbsp olive oil  
+- 2 tsp salt  
+- 1 tsp black pepper  
+- 2 tsp paprika  
+- 1 tsp garlic powder  
+- 1 tsp onion powder  
+- 1 tsp dried oregano  
+- ½ tsp ground cumin (optional)  
+- 1 lemon, halved  
+- 3–4 garlic cloves or ½ bulb, smashed  
+- Fresh thyme/rosemary (optional)
+
+---
+
+## Meal Prep Steps
+1. Remove giblets from the chicken cavity if present.  
+2. Pat the chicken completely dry with kitchen paper—this is key for crisp skin.  
+3. Tie the legs together with butcher’s twine (optional but helps even cooking).  
+4. Mix all spices in a small bowl.  
+5. Rub the chicken with olive oil, then coat evenly with the spice mix.  
+6. Stuff the cavity with lemon halves, garlic, and herbs.
+
+---
+
+## Cooking Instructions (Air Fryer)
+1. **Preheat** your air fryer to **180°C** for 3 minutes.  
+2. Place the chicken **breast-side down** in the basket.  
+3. Cook for **40 minutes** at **180°C**.  
+4. Carefully flip the chicken **breast-side up**.  
+5. Cook for an additional **20–25 minutes**, or until the internal temperature reaches **75°C** in the thickest part of the breast/thigh.  
+6. Optional glaze: Mix 1 tbsp honey + 1 tsp olive oil and brush over the skin in the final 5 minutes for extra shine.  
+7. Rest the chicken for at least **10 minutes** before carving.
+
+---
+
+## Storage & Reheating Instructions
+### Storage
+- **Fridge:** Store carved chicken in airtight containers for up to **3 days**.  
+- **Freezer:** Freeze portions for up to **3 months**.
+
+### Reheating
+- **Air fryer:** 160°C for 5–7 minutes.  
+- **Microwave:** Reheat covered to retain moisture.  
+- **Tip:** Add a splash of chicken stock when reheating to keep it juicy.
+
+---
+
+Enjoy tender, crispy, rotisserie-style chicken at home—no rotating spit required!
+

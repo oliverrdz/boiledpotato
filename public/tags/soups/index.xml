@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soups on Boiled Potato</title>
-    <link>http://localhost/tags/soups/</link>
+    <link>https://boiledpotato.xyz/tags/soups/</link>
     <description>Recent content in Soups on Boiled Potato</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost/tags/soups/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://boiledpotato.xyz/tags/soups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vegetable broth</title>
-      <link>http://localhost/vegetable-broth/</link>
+      <link>https://boiledpotato.xyz/vegetable-broth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/vegetable-broth/</guid>
+      <guid>https://boiledpotato.xyz/vegetable-broth/</guid>
       <description>&lt;h1 id=&#34;-simple-homemade-vegetable-broth--what-to-do-with-the-vegetables-after&#34;&gt;🥕 Simple Homemade Vegetable Broth + What To Do With the Vegetables After&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-ingredients-makes-152-l-broth&#34;&gt;⭐ Ingredients (makes 1.5–2 L broth)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 carrots&lt;/li&gt;&#xA;&lt;li&gt;2 celery stalks&lt;/li&gt;&#xA;&lt;li&gt;1 onion&lt;/li&gt;&#xA;&lt;li&gt;3 garlic cloves (optional)&lt;/li&gt;&#xA;&lt;li&gt;1–2 bay leaves&lt;/li&gt;&#xA;&lt;li&gt;6–8 peppercorns&lt;/li&gt;&#xA;&lt;li&gt;Small handful of parsley (optional)&lt;/li&gt;&#xA;&lt;li&gt;Salt (added at the end)&lt;/li&gt;&#xA;&lt;li&gt;2 litres water&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;optional-add-ins&#34;&gt;Optional add-ins&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mushroom stems&lt;/li&gt;&#xA;&lt;li&gt;Leek tops&lt;/li&gt;&#xA;&lt;li&gt;Tomato ends&lt;/li&gt;&#xA;&lt;li&gt;A small piece of ginger&lt;/li&gt;&#xA;&lt;li&gt;Corn cobs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;-instructions&#34;&gt;🍲 Instructions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1-prep-the-vegetables&#34;&gt;1) Prep the vegetables&lt;/h2&gt;&#xA;&lt;p&gt;Wash everything (no peeling needed).&lt;br&gt;&#xA;Cut into large chunks.&lt;/p&gt;</description>
     </item>
   </channel>

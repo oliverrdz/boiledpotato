@@ -1,94 +1,82 @@
-+++
-Title = "Vegetable broth"
-Tags = ["soups"]
-+++
+---
+title: "Vegetable Broth"
+date: 2025-12-09
+tags: ["vegetarian"]
+categories: ["general"]
+---
 
-# 🥕 Simple Homemade Vegetable Broth + What To Do With the Vegetables After
+## Grocery List
 
-## ⭐ Ingredients (makes 1.5–2 L broth)
-- 2 carrots  
+### Produce
+- 3 carrots  
 - 2 celery stalks  
-- 1 onion  
-- 3 garlic cloves (optional)  
-- 1–2 bay leaves  
-- 6–8 peppercorns  
-- Small handful of parsley (optional)  
-- Salt (added at the end)  
-- 2 litres water
+- 2 onions  
+- 1 leek (optional but recommended)  
+- 4 garlic cloves  
+- 1 handful fresh parsley  
+- 2 bay leaves  
 
-### Optional add-ins
-- Mushroom stems  
-- Leek tops  
-- Tomato ends  
-- A small piece of ginger  
-- Corn cobs  
+### Pantry
+- Olive oil  
+- 2 litres water  
 
----
+### Spices
+- Salt  
+- Black peppercorns  
 
-# 🍲 Instructions
+### Proteins
+- *None*
 
-## 1) Prep the vegetables  
-Wash everything (no peeling needed).  
-Cut into large chunks.
-
-## 2) Sweat the vegetables (optional but recommended)  
-Add 1 tbsp oil to a pot.  
-Sauté onion, carrot and celery for **5 minutes** to boost flavour.
-
-## 3) Add water and aromatics  
-Add:  
-- Water  
-- Garlic  
-- Bay leaf  
-- Peppercorns  
-
-Bring to a boil.
-
-## 4) Simmer  
-Turn heat to low and simmer **45–60 minutes**.
-
-## 5) Strain  
-Remove the vegetables with a slotted spoon or strain through a sieve.
-
-## 6) Season  
-Add salt **after** tasting.
+### Other
+- Optional: leftover vegetable scraps (peels, ends, herbs)
 
 ---
 
-# 🧊 Storage  
-- **Fridge:** up to 4 days  
-- **Freezer:** up to 3 months (freeze in 500 ml containers)
+## Utensils
+- Large stock pot  
+- Knife & chopping board  
+- Ladle  
+- Fine mesh strainer or cheesecloth  
+- Storage containers
 
 ---
 
-# 🌱 What To Do With the Cooked Vegetables
-
-## 1. Blend into a vegetable soup  
-Add a little broth, salt, pepper and optional spices (curry, cumin, paprika).  
-Blend until smooth.
-
-## 2. Make mashed vegetables  
-Mash with butter or olive oil → instant side dish.
-
-## 3. Use as filling  
-Chop or pulse and use in:  
-- Quesadillas  
-- Empanadas  
-- Rice bowls  
-- Savoury hand pies
-
-## 4. Blend into pasta sauce  
-Combine with passata, garlic and herbs.  
-Blend for a nutrient-rich tomato sauce.
-
-## 5. Add to lentils or stews  
-Stir chopped veg into dhal, bean soup or curry.
-
-## 6. Make vegetable fritters  
-Mix with 1 egg + flour/breadcrumbs + spices.  
-Pan-fry until golden.
-
-## 7. Compost  
-If too soft or bland, compost the leftovers.
+## Ingredients (Makes ~2 Litres)
+- 3 carrots, roughly chopped  
+- 2 celery stalks, roughly chopped  
+- 2 onions, quartered  
+- 1 leek, sliced  
+- 4 garlic cloves, smashed  
+- 1 handful parsley  
+- 2 bay leaves  
+- 1 tsp peppercorns  
+- 1 tbsp olive oil  
+- 2 litres water  
+- Salt to taste
 
 ---
+
+## Meal Prep Steps
+1. Wash all vegetables thoroughly; no need to peel unless dirty.  
+2. Roughly chop everything — large chunks are fine.  
+3. Keep any clean vegetable scraps from other meals (onion skins, carrot peels, celery tops) in a freezer bag to add to the pot.
+
+---
+
+## Cooking Instructions
+1. Heat the olive oil in a large stockpot over medium heat.  
+2. Add onions, carrots, celery, leek, and garlic. Sauté 5 minutes to develop flavour.  
+3. Add parsley, bay leaves, peppercorns, and any vegetable scraps.  
+4. Pour in 2 litres of water.  
+5. Bring to a boil, then reduce to a gentle simmer.  
+6. Simmer uncovered for **60–90 minutes**.  
+7. Strain the broth through a fine mesh sieve or cheesecloth.  
+8. Season with salt to taste.  
+9. Cool completely before storing.
+
+---
+
+## Storage & Reheating Instructions
+- **Fridge:** Store in sealed containers for up to **5 days**.  
+- **Freezer:** Freeze in portioned containers or ice cube trays for **3 months**.  
+- **Reheat:** Bring to a gentle simmer on the stove. Do not boil vigorously, as flavour may dull.  
