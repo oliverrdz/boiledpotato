@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Chicken</title>
+      <link>https://boiledpotato.xyz/tags/chicken/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/tags/chicken/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Easy</title>
       <link>https://boiledpotato.xyz/tags/easy/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
@@ -58,24 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Chicken</title>
-      <link>https://boiledpotato.xyz/tags/chicken/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/tags/chicken/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Fish</title>
       <link>https://boiledpotato.xyz/tags/fish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://boiledpotato.xyz/tags/fish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Soups</title>
-      <link>https://boiledpotato.xyz/tags/soups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/tags/soups/</guid>
       <description></description>
     </item>
   </channel>
