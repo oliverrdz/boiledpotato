@@ -1,135 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<<<<<<< HEAD
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/air-fryer-roasted-chicken/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/american/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/baking/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/banana-bread/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/beef/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/barbacoa/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/chorizo/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/chicken/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/chicken-mole/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/easy/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/enfrijoladas/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/garlic-pasta/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/general/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/italian/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/loaded-nachos/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/mexican/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mexican/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pork-pibil/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pork/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/quedadillas/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/racheros-eggs/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/recipes/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/chilaquiles/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/red-mexican-rice/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/refried-bean-taco/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/slow-cooker/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/steak-tacos/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/vegetable-broth/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/vegetarian/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/indian/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/indian-inspired-pork-air-fryer/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/air-fryer-salmon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/fish/</loc>
-  </url><url>
-    <loc>http://localhost:1313/picadillo-ground-beef/</loc>
-  </url><url>
-    <loc>http://localhost:1313/mexican-dhal/</loc>
-  </url>
-</urlset>
-=======
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://boiledpotato.xyz/en/sitemap.xml</loc>
     
       <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/es/sitemap.xml</loc>
+    <loc>https://boiledpotato.xyz/es/sitemap.xml</loc>
     
       <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     
   </sitemap>
   
 </sitemapindex>
->>>>>>> lang
