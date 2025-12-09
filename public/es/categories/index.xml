@@ -9,17 +9,38 @@
     <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/es/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Americano</title>
+      <link>http://localhost:1313/es/categories/americano/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/categories/americano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/es/categories/general/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/categories/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horneado</title>
+      <link>http://localhost:1313/es/categories/horneado/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/categories/horneado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italiano</title>
+      <link>http://localhost:1313/es/categories/italiano/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/categories/italiano/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mexicano</title>
       <link>http://localhost:1313/es/categories/mexicano/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/es/categories/mexicano/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mexican</title>
-      <link>http://localhost:1313/es/categories/mexican/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/categories/mexican/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,135 +1,97 @@
 ---
 title: "Beef Barbacoa"
 date: 2025-12-09
-tags: ["mexican", "beef", "slow-cooker", "easy"]
-categories: ["recipes", "mexican"]
+tags: ["beef"]
+categories: ["mexican"]
 ---
 
-# Beef Barbacoa (Slow Cooker)
+## Grocery List
 
-A tender, richly seasoned **Mexican-style beef barbacoa** made easily in a slow cooker.
-
----
-
-## 🛒 Grocery List
-
-### **Produce**
-- 1 large onion  
+### Produce
+- 1 onion  
 - 4 garlic cloves  
-- 2 limes (for juice)  
-- 2 bay leaves (optional but recommended)  
+- 2 limes  
+- Fresh coriander (optional)
 
-### **Pantry**
-- Beef broth or water (1 cup)  
-- Apple cider vinegar (2 tbsp)  
+### Pantry
+- Beef stock (250 ml)  
+- Apple cider vinegar  
+- Olive oil  
+- Bay leaves  
 - Corn tortillas (for serving, optional)
 
-### **Spices**
-- Oregano  
+### Spices
 - Salt  
 - Black pepper  
-- Paprika  
+- Dried oregano  
 - Ground cumin  
-- Ground cloves  
+- Paprika  
+- Ground cloves (or 1 whole clove)
 
-### **Proteins**
-- 1.2–1.5 kg chuck steak (or beef brisket)
+### Proteins
+- 1 kg beef chuck or brisket
 
-### **Other**
-- Chipotle in adobo (1–2 peppers, optional but traditional)  
-- Cooking oil (any)
+### Other
+- Chipotle paste or chipotle in adobo (2 tbsp)
 
 ---
 
-## 🔧 Utensils List
+## Utensils List
 - Slow cooker  
 - Cutting board  
 - Knife  
-- Measuring spoons  
-- Small bowl  
-- Forks for shredding  
+- Mixing bowl  
+- Measuring spoons and cups  
+- Tongs or fork for shredding
 
 ---
 
-## 🥘 Ingredients (Serves 6)
-
-- **1.2–1.5 kg chuck steak**, trimmed and cut into large chunks  
-- **1 large onion**, roughly chopped  
+## Ingredients (serves 6)
+- **1 kg beef chuck**, cut into large chunks  
+- **1 onion**, sliced  
 - **4 garlic cloves**, minced  
-- **1–2 chipotle peppers in adobo**, chopped (optional but adds smoky heat)  
-- **1 cup beef broth** (or water)  
-- **2 tbsp apple cider vinegar**  
-- **Juice of 2 limes**  
-- **2 tsp oregano**  
-- **2 tsp cumin**  
+- **2 tbsp chipotle paste** (or 2 peppers from chipotle in adobo)  
+- **1 tbsp dried oregano**  
+- **1 tbsp ground cumin**  
 - **1 tsp paprika**  
-- **½ tsp ground cloves**  
-- **1½ tsp salt** (adjust to taste)  
-- **1 tsp black pepper**  
-- **2 bay leaves** (optional)
+- **1/8 tsp ground cloves** (or 1 whole clove)  
+- **1 tsp salt** (adjust to taste)  
+- **1/2 tsp black pepper**  
+- **3 tbsp apple cider vinegar**  
+- **250 ml beef stock**  
+- **Juice of 2 limes**  
+- **2 bay leaves**
 
 ---
 
-## 🧑‍🍳 Meal Prep Steps
-
-1. Chop the onion and mince the garlic.  
-2. Cut the chuck steak into large fist-sized pieces for even cooking.  
-3. Mix the dry spices in a small bowl: oregano, cumin, paprika, cloves, salt, and pepper.  
-4. If using chipotle peppers, chop them ahead of time.  
-5. Juice the limes and set aside.
+## Meal Prep Steps
+1. Slice the onion and mince the garlic.  
+2. Cut beef into large, even chunks to help them cook uniformly.  
+3. Mix chipotle paste, oregano, cumin, paprika, cloves, vinegar, lime juice, salt and pepper in a bowl to form a marinade.  
+4. Pat the beef dry and lightly season with salt.  
 
 ---
 
-## 🔥 Cooking Instructions (Slow Cooker)
-
-1. **Sear the beef (optional but adds flavor):**  
-   Heat a little oil in a pan and brown each side of the beef chunks. Transfer to the slow cooker.  
-   > If you want a faster prep, skip searing — the recipe still works great.
-
-2. **Layer the aromatics:**  
-   Add chopped onion, garlic, and chipotle (if using) over the beef.
-
-3. **Add liquids:**  
-   Pour in the broth, vinegar, and lime juice.
-
-4. **Season:**  
-   Sprinkle the mixed spices over everything. Add the bay leaves.
-
+## Cooking Instructions (Slow Cooker)
+1. **Prepare the slow cooker:** Add sliced onion and garlic to the bottom.  
+2. **Add the beef:** Place beef chunks on top of the onion.  
+3. **Add marinade:** Pour the chipotle-spice mixture over the beef.  
+4. **Add liquids:** Pour beef stock around the meat, not directly over it. Add bay leaves.  
 5. **Cook:**  
-   - **Low:** 8–10 hours  
-   - **High:** 4–5 hours  
-   Beef is ready when it easily shreds with a fork.
-
-6. **Shred & finish:**  
-   Remove bay leaves, shred the beef directly in the slow cooker, and mix with the juices.
-
----
-
-## 🥡 Storage & Reheating Instructions
-
-### **Fridge**
-- Store in an airtight container for **4–5 days**.  
-- Reheat in a pan over medium heat with a splash of water or broth.
-
-### **Freezer**
-- Freeze portions with some cooking liquid for **up to 3 months**.  
-- Thaw overnight in the fridge, then reheat gently.
-
-### **Best uses**
-- Tacos, burritos, rice bowls, quesadillas, or on top of roasted potatoes.
+   - Low for **8–9 hours**, or  
+   - High for **4–5 hours**  
+6. **Shred the meat:** Once tender, remove the beef and shred with forks.  
+7. **Return to sauce:** Stir shredded beef back into the slow cooker juices and let it absorb flavour for 10 minutes on warm.  
+8. **Serve:** With warm tortillas, rice, coriander, lime wedges, or use in burritos or bowls.
 
 ---
 
-## 📊 Macros (per serving, approx.)
+## Storage & Reheating Instructions
+- **Fridge:** Store in an airtight container for up to **4 days**.  
+- **Freezer:** Freeze in portions for up to **3 months**.  
+- **Reheat:**  
+  - Microwave: 1–2 minutes with a splash of stock or water.  
+  - Stovetop: Gently heat in a pan with a bit of liquid.  
+- **Meal prep tip:** Store meat with its cooking juices to maintain moisture.
 
-*Based on 6 servings using 1.4 kg chuck steak.*
-
-- **Calories:** ~390 kcal  
-- **Protein:** ~33 g  
-- **Carbohydrates:** ~5 g  
-- **Fat:** ~26 g  
-
----
-
-Enjoy your tender, flavorful **slow cooker beef barbacoa** — easy enough for weekdays, bold enough for weekends!
 

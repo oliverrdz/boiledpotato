@@ -37,28 +37,32 @@
       <p class="lead text-secondary">
 
 
-<nav class="lang-switcher">
-  <ul>
-    
-      <li>
-        <a href="/en/tags/" hreflang="en">
-          English
-        </a>
-      </li>
-    
-      <li>
-        <a href="/es/tags/" hreflang="es">
-          Español
-        </a>
-      </li>
-    
+  
+  
 
-    
-    <li class="current-lang">
-      <span>English</span>
-    </li>
-  </ul>
-</nav>
+  
+  
+    <div class="lang-switcher">
+      <form>
+        <label for="lang-select" class="sr-only">Language</label>
+        <select id="lang-select"
+                name="lang"
+                onchange="if (this.value) window.location.href = this.value;">
+          
+            <option value="http://localhost:1313/en/tags/"
+                    selected>
+              English
+            </option>
+          
+            <option value="http://localhost:1313/es/tags/"
+                    >
+              Español
+            </option>
+          
+        </select>
+      </form>
+    </div>
+  
 
 
 
@@ -80,15 +84,6 @@
         <ul><li><a href="/en/tags/chicken/">Chicken</a></li>
 </ul>
     
-        <ul><li><a href="/en/tags/easy/">Easy</a></li>
-</ul>
-    
-        <ul><li><a href="/en/tags/mexican/">Mexican</a></li>
-</ul>
-    
-        <ul><li><a href="/en/tags/slow-cooker/">Slow-Cooker</a></li>
-</ul>
-    
         <ul><li><a href="/en/tags/vegetarian/">Vegetarian</a></li>
 </ul>
     
@@ -99,6 +94,9 @@
 </ul>
     
         <ul><li><a href="/en/tags/fish/">Fish</a></li>
+</ul>
+    
+        <ul><li><a href="/en/tags/mexican/">Mexican</a></li>
 </ul>
     
     </div>

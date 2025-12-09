@@ -37,22 +37,32 @@
       <p class="lead text-secondary">
 
 
-<nav class="lang-switcher">
-  <ul>
-    
-      <li>
-        <a href="/en/categories/general/" hreflang="en">
-          English
-        </a>
-      </li>
-    
+  
+  
 
-    
-    <li class="current-lang">
-      <span>English</span>
-    </li>
-  </ul>
-</nav>
+  
+  
+    <div class="lang-switcher">
+      <form>
+        <label for="lang-select" class="sr-only">Language</label>
+        <select id="lang-select"
+                name="lang"
+                onchange="if (this.value) window.location.href = this.value;">
+          
+            <option value="http://localhost:1313/en/categories/general/"
+                    selected>
+              English
+            </option>
+          
+            <option value="http://localhost:1313/es/categories/general/"
+                    >
+              Español
+            </option>
+          
+        </select>
+      </form>
+    </div>
+  
 
 
 
