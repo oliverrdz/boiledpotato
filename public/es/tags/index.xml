@@ -9,6 +9,41 @@
     <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://boiledpotato.xyz/es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Americana</title>
+      <link>https://boiledpotato.xyz/es/tags/americana/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/es/tags/americana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cerdo</title>
+      <link>https://boiledpotato.xyz/es/tags/cerdo/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/es/tags/cerdo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italiana</title>
+      <link>https://boiledpotato.xyz/es/tags/italiana/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/es/tags/italiana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mexicana</title>
+      <link>https://boiledpotato.xyz/es/tags/mexicana/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/es/tags/mexicana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pollo</title>
+      <link>https://boiledpotato.xyz/es/tags/pollo/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/es/tags/pollo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Res</title>
       <link>https://boiledpotato.xyz/es/tags/res/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
@@ -16,45 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>Americano</title>
-      <link>https://boiledpotato.xyz/es/tags/americano/</link>
+      <title>Vegetariana</title>
+      <link>https://boiledpotato.xyz/es/tags/vegetariana/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/es/tags/americano/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cerdo</title>
-      <link>https://boiledpotato.xyz/es/tags/cerdo/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/es/tags/cerdo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Italiano</title>
-      <link>https://boiledpotato.xyz/es/tags/italiano/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/es/tags/italiano/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mexicano</title>
-      <link>https://boiledpotato.xyz/es/tags/mexicano/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/es/tags/mexicano/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pollo</title>
-      <link>https://boiledpotato.xyz/es/tags/pollo/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/es/tags/pollo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vegetariano</title>
-      <link>https://boiledpotato.xyz/es/tags/vegetariano/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/es/tags/vegetariano/</guid>
+      <guid>https://boiledpotato.xyz/es/tags/vegetariana/</guid>
       <description></description>
     </item>
   </channel>

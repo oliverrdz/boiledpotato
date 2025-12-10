@@ -1,7 +1,7 @@
 ---
 title: "Pan de Plátano"
 date: 2025-12-09
-tags: ["vegetariano"]
+tags: ["vegetariana"]
 ---
 
 # Pan de Plátano

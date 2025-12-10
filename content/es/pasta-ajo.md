@@ -1,7 +1,7 @@
 ---
 title: "Pasta al Ajo"
 date: 2025-12-09
-tags: ["vegetariano", "italiano"]
+tags: ["vegetariana", "italiana"]
 ---
 
 ## Lista de Compras

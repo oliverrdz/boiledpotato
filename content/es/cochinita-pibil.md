@@ -1,7 +1,7 @@
 ---
 title: "Cochinita Pibil"
 date: 2025-12-09
-tags: ["cerdo", "mexicano"]
+tags: ["cerdo", "mexicana"]
 ---
 
 ## Lista de la Compra

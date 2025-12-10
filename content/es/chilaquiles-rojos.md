@@ -1,7 +1,7 @@
 ---
 title: "Chilaquiles Rojos"
 date: 2025-12-09
-tags: ["vegetariano", "mexicano"]
+tags: ["vegetariana", "mexicana"]
 ---
 
 ## Lista de la Compra

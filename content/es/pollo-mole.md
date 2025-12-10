@@ -1,7 +1,7 @@
 ---
 title: "Pollo en Mole"
 date: 2025-12-09
-tags: ["pollo", "mexicano"]
+tags: ["pollo", "mexicana"]
 ---
 
 ## Lista de Compras

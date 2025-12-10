@@ -1,8 +1,7 @@
 ---
 title: "Meatballs"
 date: 2025-12-10
-tags: ["beef"]
-categories: ["italian"]
+tags: ["beef", "italian"]
 ---
 
 ## Grocery List

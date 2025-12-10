@@ -1,7 +1,7 @@
 ---
 title: "Chorizo de Res"
 date: 2025-12-09
-tags: ["res", "mexicano"]
+tags: ["res", "mexicana"]
 ---
 
 # Chorizo de Res (Estilo Mexicano)

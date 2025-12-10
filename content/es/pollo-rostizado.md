@@ -1,7 +1,7 @@
 ---
 title: "Pollo Rostizado en Freidora de Aire"
 date: 2025-12-09
-tags: ["pollo", "americano"]
+tags: ["pollo", "americana"]
 ---
 
 ## Lista de Compras

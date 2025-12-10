@@ -15,6 +15,9 @@
                 href="https://boiledpotato.xyz/es/meatballs/"
                 />
   </url><url>
+    <loc>https://boiledpotato.xyz/es/tags/americana/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://boiledpotato.xyz/es/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -28,20 +31,55 @@
                 href="https://boiledpotato.xyz/es/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/es/categories/</loc>
+    <loc>https://boiledpotato.xyz/es/tags/cerdo/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/chicharron-salsa-roja/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/categories/"
+                href="https://boiledpotato.xyz/en/chicharron-salsa-roja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/categories/"
+                href="https://boiledpotato.xyz/es/chicharron-salsa-roja/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/es/categories/italiano/</loc>
+    <loc>https://boiledpotato.xyz/es/chicharron-salsa-verde/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/chicharron-salsa-verde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/chicharron-salsa-verde/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/chicken-fajitas/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/chicken-fajitas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/chicken-fajitas/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/tags/italiana/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/tags/mexicana/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/tags/pollo/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boiledpotato.xyz/es/tags/res/</loc>
@@ -59,9 +97,6 @@
                 hreflang="es-mx"
                 href="https://boiledpotato.xyz/es/tags/"
                 />
-  </url><url>
-    <loc>https://boiledpotato.xyz/es/tags/americano/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boiledpotato.xyz/es/arroz-rojo/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
@@ -101,9 +136,6 @@
                 hreflang="es-mx"
                 href="https://boiledpotato.xyz/es/caldo-verduras/"
                 />
-  </url><url>
-    <loc>https://boiledpotato.xyz/es/tags/cerdo/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boiledpotato.xyz/es/chilaquiles-rojos/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
@@ -183,12 +215,6 @@
                 href="https://boiledpotato.xyz/es/huevos-rancheros/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/es/tags/italiano/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/es/tags/mexicano/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://boiledpotato.xyz/es/nachos/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -227,9 +253,6 @@
                 hreflang="es-mx"
                 href="https://boiledpotato.xyz/es/pasta-ajo/"
                 />
-  </url><url>
-    <loc>https://boiledpotato.xyz/es/tags/pollo/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boiledpotato.xyz/es/pollo-mole/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
@@ -273,7 +296,19 @@
                 href="https://boiledpotato.xyz/es/tacos-bistec/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/es/tags/vegetariano/</loc>
+    <loc>https://boiledpotato.xyz/es/tags/vegetariana/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/categories/"
+                />
   </url>
 </urlset>

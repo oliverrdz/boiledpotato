@@ -1,7 +1,7 @@
 ---
 title: "Quesadillas con Proteínas Opcionales"
 date: 2025-12-09
-tags: ["vegetariano", "mexicano"]
+tags: ["vegetariana", "mexicana"]
 ---
 
 # Quesadillas con Proteínas Opcionales

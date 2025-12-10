@@ -1,8 +1,7 @@
 ---
 title: "Albóndigas"
 date: 2025-12-10
-tags: ["res"]
-categories: ["italiano"]
+tags: ["res", "italiana"]
 ---
 
 ## Lista de compras
