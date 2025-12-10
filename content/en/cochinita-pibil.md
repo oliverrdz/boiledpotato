@@ -1,8 +1,7 @@
 ---
 title: "Pibil Pork"
 date: 2025-12-09
-tags: ["pork"]
-categories: ["mexican"]
+tags: ["pork", "mexican"]
 ---
 
 ## Grocery List

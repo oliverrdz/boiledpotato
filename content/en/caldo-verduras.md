@@ -1,8 +1,7 @@
 ---
 title: "Vegetable Broth"
 date: 2025-12-09
-tags: ["vegetarian"]
-categories: ["general"]
+tags: ["vegetarian", "general"]
 ---
 
 ## Grocery List

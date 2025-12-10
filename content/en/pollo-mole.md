@@ -1,8 +1,7 @@
 ---
 title: "Chicken Mole"
 date: 2025-12-09
-tags: ["chicken"]
-categories: ["mexican"]
+tags: ["chicken", "mexican"]
 ---
 
 ## Grocery List

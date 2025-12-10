@@ -2,7 +2,6 @@
 title: "Pan de Plátano"
 date: 2025-12-09
 tags: ["vegetariano"]
-categories: ["horneado"]
 ---
 
 # Pan de Plátano

@@ -1,8 +1,7 @@
 ---
 title: "Banana Bread"
 date: 2025-12-09
-tags: ["vegetarian"]
-categories: ["baking"]
+tags: ["vegetarian", "mexican"]
 ---
 
 # Banana Bread

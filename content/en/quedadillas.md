@@ -1,8 +1,7 @@
 ---
 title: "Quesadillas"
 date: 2025-12-09
-tags: ["vegetarian"]
-categories: ["mexican"]
+tags: ["vegetarian", "mexican"]
 ---
 
 # Quesadillas with Optional Proteins

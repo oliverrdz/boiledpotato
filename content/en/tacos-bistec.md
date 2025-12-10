@@ -1,8 +1,7 @@
 ---
 title: "Steak Tacos"
 date: 2025-12-09
-tags: ["beef"]
-categories: ["mexican"]
+tags: ["beef", "mexican"]
 ---
 
 ## Grocery List

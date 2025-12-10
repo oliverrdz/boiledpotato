@@ -1,8 +1,7 @@
 ---
 title: "Air Fryer Rotisserie Chicken"
 date: 2025-12-09
-tags: ["chicken"]
-categories: ["american"]
+tags: ["chicken", "american"]
 ---
 
 ## Grocery List

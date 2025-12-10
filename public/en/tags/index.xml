@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://boiledpotato.xyz/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>American</title>
+      <link>https://boiledpotato.xyz/en/tags/american/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/en/tags/american/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Beef</title>
       <link>https://boiledpotato.xyz/en/tags/beef/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
@@ -20,6 +27,27 @@
       <link>https://boiledpotato.xyz/en/tags/chicken/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://boiledpotato.xyz/en/tags/chicken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>https://boiledpotato.xyz/en/tags/general/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/en/tags/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italian</title>
+      <link>https://boiledpotato.xyz/en/tags/italian/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/en/tags/italian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mexican</title>
+      <link>https://boiledpotato.xyz/en/tags/mexican/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/en/tags/mexican/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +76,6 @@
       <link>https://boiledpotato.xyz/en/tags/fish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://boiledpotato.xyz/en/tags/fish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mexican</title>
-      <link>https://boiledpotato.xyz/en/tags/mexican/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/en/tags/mexican/</guid>
       <description></description>
     </item>
   </channel>

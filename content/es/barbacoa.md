@@ -1,8 +1,7 @@
 ---
 title: "Barbacoa de Res"
 date: 2025-12-09
-tags: ["res"]
-categories: ["mexicano"]
+tags: ["res", "mexicano"]
 ---
 
 ## Lista de Compras

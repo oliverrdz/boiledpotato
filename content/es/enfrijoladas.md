@@ -1,8 +1,7 @@
 ---
 title: "Enfrijoladas"
 date: 2025-12-09
-tags: ["vegetariano"]
-categories: ["mexicano"]
+tags: ["vegetariano", "mexicano"]
 ---
 
 ## Lista de Compra

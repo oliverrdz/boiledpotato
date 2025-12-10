@@ -1,8 +1,7 @@
 ---
 title: "Red Mexican Rice"
 date: 2025-12-09
-tags: ["vegetarian"]
-categories: ["mexican"]
+tags: ["vegetarian", "mexican"]
 ---
 
 ## Grocery List

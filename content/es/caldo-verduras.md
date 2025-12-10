@@ -1,8 +1,7 @@
 ---
 title: "Caldo de Verduras"
 date: 2025-12-09
-tags: ["vegetariano"]
-categories: ["general"]
+tags: ["vegetariano", "mexicano"]
 ---
 
 ## Lista de Compras

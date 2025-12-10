@@ -1,8 +1,7 @@
 ---
 title: "Garlic Pasta"
 date: 2025-12-09
-tags: ["vegetarian"]
-categories: ["italian"]
+tags: ["vegetarian", "italian"]
 ---
 
 ## Grocery List
