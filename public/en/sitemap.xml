@@ -2,6 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://boiledpotato.xyz/en/tags/beef/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boiledpotato.xyz/en/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/en/categories/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/categories/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/en/categories/italian/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boiledpotato.xyz/en/meatballs/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/meatballs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/meatballs/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/en/tags/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/tags/"
+                />
+  </url><url>
     <loc>https://boiledpotato.xyz/en/pollo-rostizado/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -31,9 +89,6 @@
                 href="https://boiledpotato.xyz/en/pan-platano/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/beef/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://boiledpotato.xyz/en/barbacoa/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -58,19 +113,6 @@
                 rel="alternate"
                 hreflang="en-gb"
                 href="https://boiledpotato.xyz/en/chorizo-res/"
-                />
-  </url><url>
-    <loc>https://boiledpotato.xyz/en/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/"
                 />
   </url><url>
     <loc>https://boiledpotato.xyz/en/frijoles-charros/</loc>
@@ -224,19 +266,6 @@
                 href="https://boiledpotato.xyz/en/tacos-bistec/"
                 />
   </url><url>
-    <loc>https://boiledpotato.xyz/en/tags/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/tags/"
-                />
-  </url><url>
     <loc>https://boiledpotato.xyz/en/caldo-verduras/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -260,18 +289,6 @@
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boiledpotato.xyz/en/air-fryer-salmon/</loc>
-  </url><url>
-    <loc>https://boiledpotato.xyz/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/categories/"
-                />
   </url><url>
     <loc>https://boiledpotato.xyz/en/tags/fish/</loc>
   </url><url>
