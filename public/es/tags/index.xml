@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Boiled Potato</description>
     <generator>Hugo</generator>
     <language>es-mx</language>
-    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://boiledpotato.xyz/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vegetariana</title>
+      <link>https://boiledpotato.xyz/es/tags/vegetariana/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://boiledpotato.xyz/es/tags/vegetariana/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Americana</title>
       <link>https://boiledpotato.xyz/es/tags/americana/</link>
@@ -48,13 +55,6 @@
       <link>https://boiledpotato.xyz/es/tags/res/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://boiledpotato.xyz/es/tags/res/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vegetariana</title>
-      <link>https://boiledpotato.xyz/es/tags/vegetariana/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://boiledpotato.xyz/es/tags/vegetariana/</guid>
       <description></description>
     </item>
   </channel>

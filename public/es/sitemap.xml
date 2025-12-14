@@ -2,6 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://boiledpotato.xyz/es/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/categories/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/categories/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/categories/mexicana/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/tags/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/tags/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/tepache/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://boiledpotato.xyz/en/tepache/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-mx"
+                href="https://boiledpotato.xyz/es/tepache/"
+                />
+  </url><url>
+    <loc>https://boiledpotato.xyz/es/tags/vegetariana/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://boiledpotato.xyz/es/meatballs/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -17,19 +75,6 @@
   </url><url>
     <loc>https://boiledpotato.xyz/es/tags/americana/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/es/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/"
-                />
   </url><url>
     <loc>https://boiledpotato.xyz/es/tags/cerdo/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
@@ -84,19 +129,6 @@
   </url><url>
     <loc>https://boiledpotato.xyz/es/tags/res/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/es/tags/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/tags/"
-                />
   </url><url>
     <loc>https://boiledpotato.xyz/es/arroz-rojo/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
@@ -294,21 +326,6 @@
                 rel="alternate"
                 hreflang="es-mx"
                 href="https://boiledpotato.xyz/es/tacos-bistec/"
-                />
-  </url><url>
-    <loc>https://boiledpotato.xyz/es/tags/vegetariana/</loc>
-    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boiledpotato.xyz/es/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://boiledpotato.xyz/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-mx"
-                href="https://boiledpotato.xyz/es/categories/"
                 />
   </url>
 </urlset>
