@@ -1,7 +1,7 @@
 ---
 title: "Ploughman's Lunch No Vegetariano"
 date: 2025-12-15
-tags: ["cerdo", "britanico"]
+tags: ["cerdo", "britanica"]
 categories: ["Almuerzo", "Platos Fríos"]
 ---
 
