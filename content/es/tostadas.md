@@ -1,7 +1,7 @@
 ---
 title: "Tostadas de Maíz en Freidora de Aire"
 date: 2025-12-16
-tags: ["vegetarian", "mexican"]
+tags: ["vegetariana", "mexicana"]
 categories: ["Mexican"]
 ---
 
