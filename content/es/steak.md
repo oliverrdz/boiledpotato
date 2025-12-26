@@ -1,5 +1,5 @@
 ---
-title: "Filete de Ternera en Freidora de Aire"
+title: "Filete de res en Freidora de Aire"
 date: 2025-12-26
 tags: ["res"]
 ---
@@ -20,7 +20,7 @@ tags: ["res"]
 - Pimentón ahumado (opcional)
 
 ### Proteínas
-- Filete de ternera (solomillo, entrecot o lomo)
+- Filete de res
 
 ### Otros
 - Ninguno
